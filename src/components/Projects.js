@@ -28,8 +28,8 @@ const projects = [
     description:
       "This very portfolio! A clean, modern, and responsive personal portfolio to showcase my skills and projects. Built with React and Tailwind CSS.",
     tech: ["React", "Tailwind CSS", "Framer Motion"],
-    link: "https://your-portfolio-link.com", 
-    githubfrontend: "https://github.com/your-username/your-portfolio-repo",
+    link: "https://portfolio-chi-ten-n7sfbb9nqw.vercel.app/", 
+    githubfrontend: "https://github.com/VivekTopwal/Portfolio",
   },
 ];
 
