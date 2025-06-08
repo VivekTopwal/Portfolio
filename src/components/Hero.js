@@ -18,7 +18,7 @@ const Hero = () => {
         <div className="relative z-10 flex flex-col items-center bg-white/60 backdrop-blur-xl rounded-3xl shadow-2xl px-8 py-12 mt-10 max-w-2xl border border-white/30">
        
           <img
-            src="https://avatars.githubusercontent.com/u/9919?v=4"
+            src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png"
             alt="Vivek Topwal"
             className="w-28 h-28 rounded-full border-4 border-white shadow-lg mb-6 object-cover animate-fadeIn"
             style={{ boxShadow: "0 4px 40px 0 rgba(59,130,246,0.2)" }}
@@ -50,7 +50,7 @@ const Hero = () => {
               <ArrowRight size={20} /> View My Work
             </a>
             <a
-              href="/resume.pdf"
+              href="/resume (4).pdf"
               download
               className="inline-flex items-center justify-center px-7 py-3 bg-white/80 text-blue-700 font-semibold rounded-xl border border-blue-300 shadow hover:bg-blue-50 hover:scale-105 transition-all duration-300 gap-2"
             >
