@@ -50,7 +50,7 @@ const Hero = () => {
               <ArrowRight size={20} /> View My Work
             </a>
             <a
-              href="/resume (4).pdf"
+              href="/resume0.pdf"
               download
               className="inline-flex items-center justify-center px-7 py-3 bg-white/80 text-blue-700 font-semibold rounded-xl border border-blue-300 shadow hover:bg-blue-50 hover:scale-105 transition-all duration-300 gap-2"
             >
